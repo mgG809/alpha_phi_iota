@@ -5,8 +5,8 @@ account: rileylin
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 785757
-bundleId: 1935341
+bundleId: 1935372
 url: https://rileylin.shinyapps.io/alpha_phi_iota/
-when: 1552444560.0637
+when: 1552445609.01351
 asMultiple: FALSE
 asStatic: FALSE

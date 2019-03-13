@@ -3,6 +3,8 @@ library("dplyr")
 library("tidyr")
 library("ggplot2")
 library("stringr")
+library("jsonlite")
+
 
 our_ui <- fluidPage(
   # Content on top of the app

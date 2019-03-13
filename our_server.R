@@ -3,8 +3,10 @@ library("shiny")
 library("dplyr")
 library("tidyr")
 library("ggplot2")
+library("jsonlite")
 
 our_server <- function(input, output) {
+
   d <- reactive({
     fast_food_restaurants_df <-
       read.csv(file = 'Datafiniti_Fast_Food_Restaurants.csv')

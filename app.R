@@ -4,6 +4,8 @@ library("tidyr")
 library("ggplot2")
 source("our_server.R")
 source("our_ui.R")
+library("jsonlite")
+
 
 # Creating data sets
 fast_food_restaurants_df <- read.csv("Datafiniti_Fast_Food_Restaurants.csv",
