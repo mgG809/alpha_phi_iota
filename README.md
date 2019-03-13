@@ -7,7 +7,7 @@
 **We will be using 2 different data sets: fast food restaurants in different states and questionnaire results about obesity and nutrition. The fast food restaurants data set lists 10,000 restaurants all across the United States. The obesity set has statistics on weight of different age groups in the United States. We will combine and compare these two data sets and ask critical questions about the number of fast food restaurants and the obesity percentage in different states.**
 
 
-**Guiding Questions**
+## Guiding Questions 
 
 **What was the difference in obesity percentage from 2011 - 2016 by state?**
 
@@ -22,7 +22,7 @@
 
 
 ## References
-bn
+
 **Definition of Fast Foods https://www.livestrong.com/article/49366-definition-fast-foods/**
 
 
