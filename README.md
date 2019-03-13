@@ -1,8 +1,8 @@
 # a8 - Data App
 
-#Fast Food Restaurants and Obesity App **
+# Fast Food Restaurants and Obesity App 
 
-##Summary
+## Summary
 
 **We will be using 2 different data sets: fast food restaurants in different states and questionnaire results about obesity and nutrition. The fast food restaurants data set lists 10,000 restaurants all across the United States. The obesity set has statistics on weight of different age groups in the United States. We will combine and compare these two data sets and ask critical questions about the number of fast food restaurants and the obesity percentage in different states.**
 
@@ -21,7 +21,8 @@
 **Are fast food restaurants targeting people in the age group of 18-24 more than 65 and older? (Find the average percent of obese people in those age groups and compare)**
 
 
-##References
+## References
+
 **Definition of Fast Foods https://www.livestrong.com/article/49366-definition-fast-foods/**
 
 
